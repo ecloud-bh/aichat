@@ -79,4 +79,9 @@ aichat/
 
   ## Screenshots
 
-<img src="https://i.hizliresim.com/p727ez6.png" alt="AIGENCY" width="%100" height="%100">
+<img src="https://i.hizliresim.com/p727ez6.png" alt="AIGENCY Login" width="%100" height="%100">
+
+<img src="https://i.hizliresim.com/80bu9dm.png" alt="AIGENCY AI List" width="%100" height="%100">
+
+<img src="https://i.hizliresim.com/70ullzo.png" alt="AIGENCY Chat" width="%100" height="%100">
+

@@ -65,3 +65,20 @@ This application uses the [AIGENCY API](https://aigency.dev) for AI interactions
 
 ## File Structure
 
+aichat/
+├── api.php
+├── index.html
+├── script.js
+└── README.md
+
+
+- `api.php`: Handles API requests to the server.
+- `index.html`: Main HTML file with the user interface.
+- `script.js`: JavaScript file containing the application logic.
+- `README.md`: Project documentation.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+

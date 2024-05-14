@@ -77,4 +77,6 @@ aichat/
 - `script.js`: JavaScript file containing the application logic.
 - `README.md`: Project documentation.
 
+  ## Screenshots
 
+<img src="https://i.hizliresim.com/p727ez6.png" alt="AIGENCY" width="%100" height="%100">
